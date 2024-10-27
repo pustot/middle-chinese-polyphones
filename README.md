@@ -2,4 +2,5 @@
 
 资料来源：
 
+- 切韵拼音 https://zhuanlan.zhihu.com/p/478751152
 - 香港考試及評核局《教師語文能力評核（普通話）參照使用普通話詞語表》 ，见此仓库 https://github.com/nk2028/commonly-used-chinese-characters-and-words
