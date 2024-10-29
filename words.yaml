@@ -316,7 +316,7 @@
 不利
 不良
 不料
-不論
+不論	puq lonh
 不滿
 不免
 不怕
@@ -2297,7 +2297,7 @@
 結婚
 結晶
 結局
-結論
+結論	ket lonh
 結束
 結算
 節
@@ -2951,10 +2951,10 @@
 輪廓
 輪流
 論
-論點
-論述
-論文
-論證
+論點	lonh temq
+論述	lonh zjwit
+論文	lonh mun
+論證	lonh tjyngh
 螺旋
 羅
 邏輯
@@ -4334,7 +4334,7 @@
 痰
 談
 談話
-談論
+談論	dam lonh
 談判
 彈性
 坦克
@@ -4364,7 +4364,7 @@
 陶冶
 淘汰
 討
-討論
+討論	thawq lonh
 討厭
 套
 特
@@ -4553,7 +4553,7 @@
 推薦
 推進
 推理
-推論
+推論	thoj lonh
 推銷
 推行
 腿
@@ -5195,7 +5195,7 @@
 延伸
 延續
 言
-言論
+言論	ngyon lonh
 言語
 岩
 岩石
@@ -5414,7 +5414,7 @@
 義務
 議
 議會	ngyeh ghwajh
-議論
+議論	ngyeh lonh
 議員
 毅然
 翼
@@ -5564,7 +5564,7 @@
 愉快
 餘
 餘地
-輿論
+輿論	jyo lonh
 予以
 羽
 羽毛
@@ -5832,7 +5832,7 @@
 征服
 爭
 爭奪
-爭論
+爭論	tsreeng lonh
 爭取
 掙
 睜
@@ -6674,7 +6674,7 @@
 辯
 辯駁
 辯護人
-辯論
+辯論	byenq lonh
 辯題	byenq dej
 變本加厲
 變電站
@@ -6711,7 +6711,7 @@
 別具一格
 別開生面	byet kheoj sryaeng mienh
 別離
-別論
+別論	byet lonh
 別名
 別墅
 別有用心
@@ -7951,7 +7951,7 @@
 定奪
 定價
 定居
-定論
+定論	dengh lonh
 定神
 定時
 定位
@@ -8646,7 +8646,7 @@
 高人
 高聳
 高聳入雲
-高談闊論
+高談闊論	kaw dam khwat lonh
 高位
 高效
 高薪
@@ -9394,7 +9394,7 @@
 簧
 惶惑
 惶恐
-遑論
+遑論	ghwang lonh
 恍惚
 恍然
 晃眼
@@ -11050,10 +11050,10 @@
 輪班
 輪胎
 輪椅
-論辯
-論據
-論說
-論壇
+論辯	lonh byenq
+論據	lonh kyoh
+論說	lonh sjwiet
+論壇	lonh dan
 論題	lonh dej
 螺
 螺絲
@@ -14270,9 +14270,9 @@
 相若
 相識
 相思
-相提並論
+相提並論	syang dej bengq lonh
 相像
-相形見絀    syang gheng kenh trwit
+相形見絀	syang gheng kenh trwit
 相依
 相依爲命
 相宜
@@ -15070,7 +15070,7 @@
 議案
 議價
 議決
-議論文
+議論文	ngyeh lonh mun
 議題	ngyeh dej
 議席
 肄業
