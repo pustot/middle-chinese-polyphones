@@ -227,7 +227,7 @@
 標
 標本
 標題	piew dej
-標語
+標語	piew ngyoq
 標誌
 標準
 標準化
@@ -520,7 +520,7 @@
 成熟
 成爲
 成效
-成語
+成語	djiaeng ngyoq
 成員
 成長
 城
@@ -677,7 +677,7 @@
 詞
 詞典
 詞義
-詞語
+詞語	zy ngyoq
 磁
 磁場
 磁力
@@ -1742,13 +1742,13 @@
 含義
 寒
 寒冷	ghan laengq
-罕見    hanq kenh
+罕見	hanq kenh
 喊
 汗
 汗水
 旱
 漢
-漢語
+漢語	hanh ngyoq
 漢子
 漢字
 行
@@ -1894,7 +1894,7 @@
 話劇
 話題	ghwaejh dej
 話筒
-話語
+話語	ghwaejh ngyoq
 畫
 畫家
 畫面
@@ -2635,7 +2635,7 @@
 口號	khouq ghawh
 口腔
 口頭
-口語
+口語	khouq ngyoq
 扣
 哭
 苦
@@ -4162,7 +4162,7 @@
 束縛
 述
 術
-術語
+術語	zjwit ngyoq
 數據
 數量
 數目
@@ -4590,7 +4590,7 @@
 外面
 外商
 外形
-外語
+外語	ngwajh ngyoq
 外在
 外資
 彎
@@ -5196,7 +5196,7 @@
 延續
 言
 言論	ngyon lonh
-言語
+言語	ngyon ngyoq
 岩
 岩石
 沿
@@ -5574,12 +5574,12 @@
 與
 與其
 語
-語法
-語句
-語氣
-語文
-語言
-語音
+語法	ngyoq puop
+語句	ngyoq kuoh
+語氣	ngyoq khyjh
+語文	ngyoq mun
+語言	ngyoq ngyon
+語音	ngyoq qyim
 玉
 玉米
 育
@@ -7554,7 +7554,7 @@
 粗話
 粗略
 粗俗
-粗言穢語
+粗言穢語	dzoq ngyon quojh ngyoq
 粗枝大葉
 粗壯
 促請
@@ -8827,7 +8827,7 @@
 古屋
 古物
 古雅
-古語
+古語	koq ngyoq
 古樂
 古箏
 古裝
@@ -8976,7 +8976,7 @@
 國務
 國務卿
 國學
-國語
+國語	kweok ngyoq
 國債
 果凍
 果醬
@@ -9312,14 +9312,14 @@
 花生油	hwae sryaeng ju
 花市
 花絮
-花言巧語
+花言巧語	hwae ngyon khaewq ngyoq
 花藝
 划船
 划算
 華麗
 華人
 華裔
-華語
+華語	ghwae ngyoq
 滑稽
 滑溜
 滑落
@@ -9971,7 +9971,7 @@
 結識
 結業
 結餘
-結語
+結語	ket ngyoq
 結賬
 捷
 捷足先登	dziep tsuok sen teong
@@ -11219,7 +11219,7 @@
 迷你裙
 迷惘
 謎底
-謎語
+謎語	mejh ngyoq
 彌
 彌撒
 米醋
@@ -11277,7 +11277,7 @@
 妙齡
 妙趣
 妙趣橫生	miewh tshuoh ghwaeng sryaeng
-妙語
+妙語	miewh ngyoq
 廟宇
 滅火
 滅絕
@@ -11392,7 +11392,7 @@
 母女	mouq nryoq
 母親節
 母校
-母語
+母語	mouq ngyoq
 姆指
 牡丹
 木板
@@ -11447,7 +11447,7 @@
 南瓜
 南柯一夢
 南轅北轍
-喃喃自語
+喃喃自語	nreem nreem dzih ngyoq
 難點
 難度
 難忘
@@ -11535,7 +11535,7 @@
 釀造
 釀製
 鳥瞰
-鳥語花香
+鳥語花香	tewq ngyoq hwae hyang
 尿液
 聶
 孽
@@ -11833,7 +11833,7 @@
 評說
 評委
 評議
-評語
+評語	byaeng ngyoq
 憑弔
 憑空
 潑
@@ -12089,7 +12089,7 @@
 愜意
 鍥而不捨
 竊
-竊竊私語
+竊竊私語	tshet tshet si ngyoq
 侵奪
 侵擾
 侵吞
@@ -13006,7 +13006,7 @@
 手下
 手藝
 手印
-手語
+手語	sjuq ngyoq
 手足	sjuq tsuok
 手足無措
 手杖
@@ -13159,7 +13159,7 @@
 雙親
 雙向
 雙贏
-雙語
+雙語	sroeung ngyoq
 爽
 爽朗
 水彩
@@ -13231,7 +13231,7 @@
 私立
 私下
 私有化
-私語
+私語	si ngyoq
 思辨
 思量
 思議
@@ -13294,7 +13294,7 @@
 酥脆
 俗名
 俗套
-俗語
+俗語	zuok ngyoq
 速遞
 速食	souk zjyk
 素菜
@@ -14804,7 +14804,7 @@
 厭倦
 燕窩
 燕子
-諺語
+諺語	ngyenh ngyoq
 艷
 艷麗
 央求
@@ -15239,7 +15239,7 @@
 用膳
 用心
 用心良苦
-用語
+用語	juongh ngyoq
 用字
 佣金
 幽暗
@@ -15373,9 +15373,9 @@
 雨天
 與日俱增
 與世長辭
-語境
-語錄
-語速
+語境	ngyoq kyaengq
+語錄	ngyoq luok
+語速	ngyoq souk
 玉器
 芋頭
 浴
@@ -15472,7 +15472,7 @@
 悅耳
 悅目
 粵劇
-粵語
+粵語	uot ngyoq
 越位
 越野
 越野車
@@ -16010,7 +16010,7 @@
 粥
 軸心
 咒
-咒語
+咒語	tjuh ngyoq
 晝
 皺眉
 驟
@@ -16208,7 +16208,7 @@
 自信心
 自修
 自選	dzih swienq
-自言自語
+自言自語	dzih ngyon dzih ngyoq
 自以爲是
 自圓其說
 自怨自艾
