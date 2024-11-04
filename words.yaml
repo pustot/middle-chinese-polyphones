@@ -170,7 +170,7 @@
 比如
 比賽
 比喻
-比重
+比重	piq druongq
 彼
 彼此
 筆
@@ -402,7 +402,7 @@
 冊
 側
 側面
-側重
+側重	tsryk druongq
 測
 測定
 測量
@@ -494,7 +494,7 @@
 沉積
 沉默
 沉思
-沉重
+沉重	drim druongq
 沉着
 陳
 陳舊	drin guh
@@ -1182,7 +1182,7 @@
 繁多
 繁榮
 繁殖
-繁重
+繁重	buon druongq
 反
 反動
 反對
@@ -2113,7 +2113,7 @@
 加深
 加速
 加以
-加重
+加重	kae druongq
 夾
 家
 家畜
@@ -3571,7 +3571,7 @@
 輕鬆
 輕微
 輕易
-輕重
+輕重	khiaeng druongq
 傾
 傾聽
 傾向
@@ -3933,7 +3933,7 @@
 甚
 甚至
 腎
-慎重
+慎重	djinh druongq
 滲透
 升
 生
@@ -4408,7 +4408,7 @@
 體育
 體制
 體質
-體重
+體重	thejq druongq
 替
 替代
 天
@@ -5214,7 +5214,7 @@
 嚴厲
 嚴密
 嚴肅
-嚴重
+嚴重	ngyom druongq
 鹽
 鹽酸
 掩蓋
@@ -6005,9 +6005,9 @@
 種子
 種族
 中毒
-重大
+重大	druongq dajh
 重點
-重力
+重力	druongq lyk
 重量
 重視
 重要
@@ -6124,7 +6124,7 @@
 桌
 桌子
 着手
-着重
+着重	dryak druongq
 卓越
 琢磨
 咨詢
@@ -6621,7 +6621,7 @@
 避忌
 避難
 避暑
-避重就輕
+避重就輕	bieh druongq dzuh khiaeng
 裨益
 碧
 碧藍
@@ -6754,7 +6754,7 @@
 並列
 並排
 並行
-並重
+並重	bengq druongq
 併發
 併發症
 併入
@@ -7124,7 +7124,7 @@
 超脫
 超支
 超值
-超重
+超重	trhiew druongq
 超卓
 巢穴
 朝聖	driew sjiaengh
@@ -7285,23 +7285,23 @@
 沖洗
 衝刺
 憧憬
-重播
-重蹈覆轍
+重播	druong pah
+重蹈覆轍	druong dawh phuk driet
 重讀
-重返
-重逢
-重光
-重建
-重申
+重返	druong puonq
+重逢	druong buong
+重光	druong kwang
+重建	druong kyonh
+重申	druong sjin
 重生	druong sryaeng
-重溫
-重現
-重修
-重演
-重陽節
-重振
-重整
-重奏
+重溫	druong qon
+重現	druong ghenh
+重修	druong su
+重演	druong jienq
+重陽節	druong jyang tset
+重振	druong tjinh
+重整	druong tjiaengq
+重奏	druong tsouh
 重組
 崇尚
 蟲牙
@@ -9224,7 +9224,7 @@
 厚薄
 厚實
 厚望
-厚重
+厚重	ghouq druongq
 後備
 後輩
 後塵
@@ -10169,7 +10169,7 @@
 敬仰
 敬業
 敬意
-敬重
+敬重	kyaengh druongq
 靚
 鏡片
 競
@@ -10290,7 +10290,7 @@
 娟秀
 捲縮
 捲曲
-捲土重來
+捲土重來	kuenq thoq druongq leoj
 卷軸
 倦
 眷顧
@@ -11544,7 +11544,7 @@
 凝聚力
 凝神	ngyng zjin
 凝望
-凝重
+凝重	ngyng druongq
 檸檬
 檸檬茶
 牛奶
@@ -11565,7 +11565,7 @@
 濃密
 濃縮
 濃郁
-濃重
+濃重	nruong druongq
 弄虛作假
 奴
 奴婢
@@ -11751,7 +11751,7 @@
 偏食	phien zjyk
 偏遠
 偏執
-偏重
+偏重	phien druongq
 篇幅
 篇章
 翩翩起舞
@@ -12421,7 +12421,7 @@
 如火如荼
 如期
 如實
-如釋重負
+如釋重負	njyo sjiaek druongq buq
 如意
 如願
 儒
@@ -13864,7 +13864,7 @@
 危及
 危急
 危言聳聽
-危重
+危重	ngue druongq
 威
 威風	quj pung
 威嚇
@@ -13965,7 +13965,7 @@
 穩固
 穩健
 穩妥
-穩重
+穩重	qonq druongq
 問鼎
 問卷
 問心無愧
@@ -15017,7 +15017,7 @@
 以牙還牙
 倚靠
 倚賴
-倚重
+倚重	qyeq druongq
 亦步亦趨
 屹立
 抑
@@ -15985,14 +15985,14 @@
 中選	trungh swienq
 仲
 仲裁
-重本
-重病
-重擔
-重任
-重頭戲
-重用
-重鎮
-重症
+重本	druongq ponq
+重病	druongq byaengh
+重擔	druongq tamh
+重任	druongq njimh
+重頭戲	druongq dou hyeh
+重用	druongq juongh
+重鎮	druongq trinh
+重症	druongq tryng
 衆矢之的
 衆所周知
 衆望所歸
